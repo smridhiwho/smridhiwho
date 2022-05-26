@@ -2,12 +2,9 @@
 <p align="center"> <a href="https://www.linkedin.com/in/smridhi-gupta-74337a219/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurisha-r-srivastava" height='20' width='90'/> </a>
 <a href="https://github.com/Smridhiwho"> <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Gaurisha21" height='20' width='80'/>  </a>
 
-I am a budding developer who loves python and wish to work on Machine Learning. I am also a blockchain enthusaist and am currently trying to learn more about it. 
-I am quite new to opensource and would love to learn more ! 
-I believe that technology is the most powerful tool that has already changed the world as is, and hope to make a meaningful contribution someday. 
-
+I am a budding developer who loves python and is currently working on the LIDC dataset to build a Machine Learning algorithm with enhanced diagnosis accuracy compared to current standards . I am also a blockchain enthusaist and am currently rsearching on the integration of De-Fi in a Capitalist economic system. 
+  
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love star-gazing even though I live in Delhi
 - 💬 Ask me about Latest Technologies, Astronomy, Reading, Philosphy 
 
 <div align="center">
