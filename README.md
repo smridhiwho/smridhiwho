@@ -2,8 +2,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/smridhi-gupta-74337a219/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurisha-r-srivastava" height='20' width='90'/> </a>
 <a href="https://github.com/Smridhiwho"> <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Gaurisha21" height='20' width='80'/>  </a>
 
-I am a budding developer who loves python and is currently working on the LIDC dataset to build a Machine Learning algorithm with enhanced diagnosis accuracy compared to current standards . 
-  
+I am a full stack developer, trying to build AI integrated apps for everyone. Focussed on secure ai systems, and a little vibe coding for fun.   
 - 😄 Pronouns: she/her
 - 💬 Ask me about Latest Technologies, Astronomy, Reading, Philosphy 
 
